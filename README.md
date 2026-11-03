@@ -10,7 +10,7 @@
 ### mODE50 <sub>[🔗](https://github.com/Naufal-Alif28/mODE50)</sub>
 > A web-app for **fitting bioprocess data** into Monod ODE model. Part of the [Harvard CS50x's Introduction to Computer Science](https://cs50.harvard.edu/x/) final project.
 >
-> Access the app [here](https://mode50-git-361071048790.asia-southeast2.run.app/) or watch the demo [here](https://youtu.be/wziOoBdSMcg)
+> Access the app [here](https://mode50.cloud.run) or watch the demo [here](https://youtu.be/wziOoBdSMcg)
 
 `Python` `SQL` `Git` `HTML` `CSS` `JavaScript` `Google Cloud Run` `Flask`
 
