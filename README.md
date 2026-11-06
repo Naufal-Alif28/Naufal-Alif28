@@ -1,5 +1,7 @@
 # _Hello!_ I am Naufal
 
+▶ [CHECK OUT MY CV HERE](https://drive.google.com/file/d/1yNBN9Quv3uskcCG2Jgjie1r8vftNxeL9/view?usp=sharing) ◀
+
 🎓 **Microbiology** graduate from **Institut Teknologi Bandung (ITB)**.
 
 🎯 I am developing and focusing my skills on **harnessing the power of computation** in **processing data from biological systems** with bioinformatics/computational biology, and **extracting knowledge** from them with what I  learned through **courses and labsworks in molecular microbiology**.
