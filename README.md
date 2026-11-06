@@ -1,6 +1,6 @@
 # _Hello!_ I am Naufal
 
-▶ [CHECK OUT MY CV HERE](https://drive.google.com/file/d/1yNBN9Quv3uskcCG2Jgjie1r8vftNxeL9/view?usp=sharing) ◀
+⭐ **[CHECK OUT MY CV HERE](https://drive.google.com/file/d/1yNBN9Quv3uskcCG2Jgjie1r8vftNxeL9/view?usp=sharing)** ⭐
 
 🎓 **Microbiology** graduate from **Institut Teknologi Bandung (ITB)**.
 
